@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XBackbone_Backend.props" />
+</Project>
